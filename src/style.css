@@ -159,7 +159,7 @@ img {
 }
 
 .services>p {
-    font-size: 13px;
+    font-size: 17px;
     margin-bottom: 52px;
 }
 
@@ -179,8 +179,8 @@ img {
 }
 
 .service img {
-    width: 100px;
-    height: 130px;
+    width: 200px;
+    height: 230px;
     border-radius: 18px;
     margin: 0 auto 90px;
 }
@@ -195,8 +195,8 @@ img {
 .service p {
     max-width: 560px;
     margin: 0 auto;
-    font-size: 13px;
-    line-height: 1.35;
+    font-size: 17px;
+    line-height: 1.5;
 }
 
 .wide-image {
@@ -213,7 +213,9 @@ img {
     text-align: center;
     padding: 0 20px 170px;
 }
-
+.eyebrow {
+    font-size: 17px;
+}
 .footer-card-wrap {
     padding: 0 88px 44px;
 }
