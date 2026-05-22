@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "swiper": "^12.1.4"
+  },
+  "devDependencies": {
+    "vite": "^8.0.14"
+  },
+  "name": "flower",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx vite",
+    "build": "npx vite build",
+    "preview": "npx vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urvenogu/Flower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urvenogu/Flower/issues"
+  },
+  "homepage": "https://github.com/urvenogu/Flower#readme"
+}
